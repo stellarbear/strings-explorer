@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Name": "Unicode",
+    "Codepage": 1200,
+    "CharRange": "[\\u0020-\\u007E]"
+  },
+  {
+    "Name": "Ascii",
+    "Codepage": 1251,
+    "CharRange": "[\\x20-\\x7E]"
+  }
+]
